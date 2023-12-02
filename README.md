@@ -9,47 +9,47 @@
 교통사고에 관련된 다양한 데이터를 분석하고 시각화 하는 것을 목표로 한다. 
 
 # 3. 데이터 분석
-최근 5년간 교통사고 추이
+### 최근 5년간 교통사고 추이
 
 ![image](https://github.com/Kimsuji100/Bigdata_Project/assets/113170868/3fd6718a-678e-4fe4-bcbf-0bbfcf5c2d69)
 
-최근 5년간 교통사고 피해규모
+### 최근 5년간 교통사고 피해규모
 
 ![image](https://github.com/Kimsuji100/Bigdata_Project/assets/113170868/ce8a1525-5dde-42be-bfab-ca22e7608a8a)
 
-시도별 교통사고 사망자수 및 중상자수
+### 시도별 교통사고 사망자수 및 중상자수
 
 ![image](https://github.com/Kimsuji100/Bigdata_Project/assets/113170868/d3a82529-25c2-4de2-81f5-09f37aaa803b)
 
-사고유형별 교통사고 사고건수
+### 사고유형별 교통사고 사고건수
 
 ![image](https://github.com/Kimsuji100/Bigdata_Project/assets/113170868/21aa4d8c-f2ce-49d2-bbf0-8be49dfc722d)
 
-시간대별 교통사고 건수
+### 시간대별 교통사고 건수
 
 ![image](https://github.com/Kimsuji100/Bigdata_Project/assets/113170868/c8b4acdb-3072-4dfd-9b6a-12eb69259fdc)
 
-시간대별 교통사고 건수 및 사망자수
+### 시간대별 교통사고 건수 및 사망자수
 
 ![image](https://github.com/Kimsuji100/Bigdata_Project/assets/113170868/47972cdc-dafe-42fb-92b0-4f3ceedb9ca7)
 
-요일별 교통사고 건수와 사망자수
+### 요일별 교통사고 건수와 사망자수
 
 ![image](https://github.com/Kimsuji100/Bigdata_Project/assets/113170868/d9efe66f-6c09-4a5c-b4f5-2e1502ca80f6)
 
-가해자 연령층별 교통사고 건수
+### 가해자 연령층별 교통사고 건수
 
 ![image](https://github.com/Kimsuji100/Bigdata_Project/assets/113170868/670b54cf-ea3f-49c5-b2d5-1efc7ec4baa7)
 
-기상상태별 졸음운전 교통사고 현황
+### 기상상태별 졸음운전 교통사고 현황
 
 ![image](https://github.com/Kimsuji100/Bigdata_Project/assets/113170868/8a43ab2f-5f1f-4198-a666-f8fd0c86373f)
 
-시도별 교통사고 사상자수
+### 시도별 교통사고 사상자수
 
 ![image](https://github.com/Kimsuji100/Bigdata_Project/assets/113170868/7eb818a3-b315-474c-9bd8-4e747a8091a8)
 
-마커 클릭시
+### 마커 클릭시
 
 ![image](https://github.com/Kimsuji100/Bigdata_Project/assets/113170868/1c1d1e61-6026-4fb3-ac7d-5bcdd47617ff)
 
